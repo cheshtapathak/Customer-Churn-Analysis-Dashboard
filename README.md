@@ -31,7 +31,7 @@ Churn labels, categories, and churn reasons
 5. Features / Highlights
 • Business Problem
 
-Customer churn directly impacts revenue and growth in the telecom industry. However, identifying why customers churn and which segments are at risk is challenging when working with raw data.
+Customer churn has a direct impact on revenue and growth in the telecom industry. However, identifying why customers churn and which segments are at risk is challenging when working with raw data.
 
 Key questions addressed include:
 
@@ -59,6 +59,7 @@ Churn Reasons & Categories: Breakdown of top churn reasons to understand custome
 Retention Strategy Support: Identified higher churn among short-tenure and month-to-month customers
 Revenue Protection: Highlighted customer segments with high charges and churn risk
 Customer Experience Improvement: Insights into churn reasons help prioritize service and pricing improvements
-Decision-Making Enablement: Enables stakeholders to quickly explore churn trends and take proactive action
+Decision-Making Enablement: Enables stakeholders to explore churn trends and take proactive action quickly
 
 6. Screenshots / Demos
+Here is the snapshot of the dashboard - (https://github.com/cheshtapathak/Customer-Churn-Analysis-Dashboard/blob/main/Snapshot%20of%20dashboard.png)
