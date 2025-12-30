@@ -1,7 +1,5 @@
 # Customer-Churn-Analysis-Dashboard
-1. Project Title / Headline
-
-📉 Customer Churn Analysis – Telecom Retention Insights Dashboard
+1. 📉 Customer Churn Analysis – Telecom Retention Insights Dashboard
 An interactive Power BI dashboard designed to analyze customer churn behavior and uncover key drivers influencing customer retention in the telecom domain.
 
 2. Short Description / Purpose
